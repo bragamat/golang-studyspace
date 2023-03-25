@@ -1,0 +1,3 @@
+[submodule "apps/file-to-markdown"]
+	path = apps/file-to-markdown
+	url = git@github.com:bragamat/file-to-markdown.git
