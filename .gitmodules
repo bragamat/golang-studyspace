@@ -4,3 +4,6 @@
 [submodule "apps/tmux-sessions"]
 	path = apps/tmux-sessions
 	url = git@github.com:bragamat/tmux-sessions.git
+[submodule "apps/add-bin-to-path"]
+	path = apps/add-bin-to-path
+	url = git@github.com:bragamat/add-bin-to-path.git
