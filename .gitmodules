@@ -1,3 +1,6 @@
 [submodule "apps/file-to-markdown"]
 	path = apps/file-to-markdown
 	url = git@github.com:bragamat/file-to-markdown.git
+[submodule "apps/tmux-sessions"]
+	path = apps/tmux-sessions
+	url = git@github.com:bragamat/tmux-sessions.git
