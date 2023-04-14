@@ -7,3 +7,6 @@
 [submodule "apps/add-bin-to-path"]
 	path = apps/add-bin-to-path
 	url = git@github.com:bragamat/add-bin-to-path.git
+[submodule "apps/gmux"]
+	path = apps/gmux
+	url = git@github.com:bragamat/gmux.git
