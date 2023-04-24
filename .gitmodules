@@ -10,3 +10,6 @@
 [submodule "apps/gmux"]
 	path = apps/gmux
 	url = git@github.com:bragamat/gmux.git
+[submodule "apps/glidev"]
+	path = apps/glidev
+	url = git@github.com:bragamat/gli.dev.git
